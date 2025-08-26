@@ -155,18 +155,15 @@ h2 {
 /* css for work */
 
 .work-year {
-  width: 8em;
+  width: 9em;
   display: inline-block;
 }
 
 .work-content {
   display: inline-block;
-  margin-left: 8.9em;
-  /* (87+10+4-0.5)/15 */
+  margin-left: 9.9em;
   padding-left: 0.9em;
-  /* 13.5/15 */
   border-left: 0.06666667em solid black;
-  /* 1/15 */
 }
 
 .work-title {
@@ -179,7 +176,7 @@ h2 {
 .work-placeholder {
   height: 0.625em;
   border-left: 1px solid black;
-  margin-left: 8.9em;
+  margin-left: 9.9em;
   /* (87+10+4-0.5)/15 */
 }
 
